@@ -12,5 +12,21 @@
 			{"lat": -74.429, "lng": -15.649},
 			{"lat": -74.666, "lng": -16.484}
 		]
+		},
+	{
+		"title": "Larry and Co",
+		"notes": "Larry, Mama, Oscar, etc",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "22298d",
+		"fillcolor": "838492",
+		"latlngarray": [
+			{"lat": -75.334, "lng": -14.300},
+			{"lat": -75.481, "lng": -14.850},
+			{"lat": -75.392, "lng": -15.311},
+			{"lat": -75.242, "lng": -14.795}
+		]
+	},
+	{
 	}
 ]
