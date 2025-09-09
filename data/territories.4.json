@@ -13,5 +13,66 @@
 			{"lat": -73.111, "lng": -19.837},
 			{"lat": -73.729, "lng": -19.848}
 		]
+	},
+	{
+		"title": "55 NC",
+		"notes": "55 Neighborhood Crips",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "45b7ea",
+		"fillcolor": "b5cbd4",
+		"latlngarray": [
+			{"lat": -75.081, "lng": -11.522},
+			{"lat": -75.320, "lng": -9.369},
+			{"lat": -75.439, "lng": -8.721},
+			{"lat": -75.112, "lng": -7.622},
+			{"lat": -74.596, "lng": -9.984}
+		]
+	},
+	{
+		"title": "Longos 13",
+		"notes": "S/S Jamestown Varrio Longos X3",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "661113",
+		"fillcolor": "bd9a9a",
+		"latlngarray": [
+			{"lat": -75.703, "lng": -3.550},
+			{"lat": -75.474, "lng": -1.462},
+			{"lat": -75.212, "lng": -2.253},
+			{"lat": -75.009, "lng": -1.418},
+			{"lat": -74.658, "lng": -2.979},
+			{"lat": -75.318, "lng": -5.330}
+		]
+	},
+	{
+		"title": "52 HGC",
+		"notes": "52 Hoover Gangster Crips",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "f19e66",
+		"fillcolor": "f3d2bc",
+		"latlngarray": [
+			{"lat": -73.169, "lng": -1.595},
+			{"lat": -73.019, "lng": -1.233},
+			{"lat": -72.685, "lng": -0.815},
+			{"lat": -72.465, "lng": -1.661},
+			{"lat": -72.610, "lng": -2.463},
+			{"lat": -72.809, "lng": -3.067}
+		]
+	},
+	{
+		"title": "DLGB",
+		"notes": "Denver Lane Gangster Bloods",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ea3b41",
+		"fillcolor": "f4b8ba",
+		"latlngarray": [
+			{"lat": -72.951, "lng": -15.645},
+			{"lat": -72.408, "lng": -17.831},
+			{"lat": -72.073, "lng": -16.897},
+			{"lat": -72.616, "lng": -14.667}
+		]
 	}
 ]
