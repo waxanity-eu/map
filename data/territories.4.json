@@ -1,30 +1,17 @@
 [
 	{
-		"title": "404 Casino",
-		"notes": "Owned by Marty Banks, the 404 Casino is a player run casino with roulette, blackjack, and other games.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -74.584, "lng": -16.835},
-			{"lat": -74.372, "lng": -16.055},
-			{"lat": -74.429, "lng": -15.649},
-			{"lat": -74.666, "lng": -16.484}
-		]
-	},
-	{
-		"title": "Larry and Co",
-		"notes": "Larry, Mama, Oscar, etc",
+		"title": "PBS",
+		"notes": "PlayBoys 13",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "22298d",
 		"fillcolor": "838492",
 		"latlngarray": [
-			{"lat": -75.334, "lng": -14.300},
-			{"lat": -75.481, "lng": -14.850},
-			{"lat": -75.392, "lng": -15.311},
-			{"lat": -75.242, "lng": -14.795}
+			{"lat": -74.025, "lng": -18.749},
+			{"lat": -73.172, "lng": -16.211},
+			{"lat": -72.639, "lng": -18.409},
+			{"lat": -73.140, "lng": -19.848},
+			{"lat": -73.766, "lng": -19.826}
 		]
 	}
 ]
