@@ -127,10 +127,10 @@ $(function() {
 	});
 	var sections = new SectionCollection([
 		new SectionModel({
-			name: 'Gang Map',
+			name: 'South Los Santos',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Hoods',
+					name: 'Territories',
 					icon: 'General/wall-breach.png',
 					enabled: true,
 					url: 'data/territories.4.json',
